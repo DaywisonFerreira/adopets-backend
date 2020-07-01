@@ -6,6 +6,7 @@ import Product from '../app/models/Product';
 const env = process.env.NODE_ENV || 'development';
 const connection = require('../config/config.json')[env]
 
+console.log('A conexao é ' + connection)
 
 const models = [User, Product];
 
