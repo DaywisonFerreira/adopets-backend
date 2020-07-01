@@ -10,8 +10,8 @@ module.exports = {
         category: 'basquete',
         price: 24.99,
         stock: 100,
-        createdAt: new Date(),
-        updatedAt: new Date()
+        created_at: new Date(),
+        updated_at: new Date()
        },
        {
         name: 'Bomba de Ar Penalty SAC',
@@ -19,8 +19,8 @@ module.exports = {
         category: 'bomba de ar',
         price: 32.99,
         stock: 200,
-        createdAt: new Date(),
-        updatedAt: new Date()
+        created_at: new Date(),
+        updated_at: new Date()
        },
        {
         name: 'Mountain Bike Caloi Vulcan',
@@ -28,8 +28,8 @@ module.exports = {
         category: 'ciclismo',
         price: 1200,
         stock: 50,
-        createdAt: new Date(),
-        updatedAt: new Date()
+        created_at: new Date(),
+        updated_at: new Date()
        },
        {
         name: 'Mountain Bike Caloi Moab',
@@ -37,8 +37,8 @@ module.exports = {
         category: 'ciclismo',
         price: 1300,
         stock: 100,
-        createdAt: new Date(),
-        updatedAt: new Date()
+        created_at: new Date(),
+        updated_at: new Date()
        },
        {
         name: 'Óculos para Ciclismo Oxer HS14018',
@@ -46,8 +46,8 @@ module.exports = {
         category: 'ciclismo',
         price: 75.99,
         stock: 200,
-        createdAt: new Date(),
-        updatedAt: new Date()
+        created_at: new Date(),
+        updated_at: new Date()
        },
        {
         name: 'Bota Impermeável de Couro Nord Atacam',
@@ -55,8 +55,8 @@ module.exports = {
         category: 'bota',
         price: 159.99,
         stock: 100,
-        createdAt: new Date(),
-        updatedAt: new Date()
+        created_at: new Date(),
+        updated_at: new Date()
        },
        {
         name: 'Bota Impermeável Bull Terrier Alpina Dry Lite',
@@ -64,8 +64,8 @@ module.exports = {
         category: 'bota',
         price: 170.99,
         stock: 100,
-        createdAt: new Date(),
-        updatedAt: new Date()
+        created_at: new Date(),
+        updated_at: new Date()
        },
        {
         name: 'Luvas de Boxe Everlast Pró Style Training',
@@ -73,8 +73,8 @@ module.exports = {
         category: 'boxe',
         price: 139.99,
         stock: 50,
-        createdAt: new Date(),
-        updatedAt: new Date()
+        created_at: new Date(),
+        updated_at: new Date()
        },
     ], {});
     

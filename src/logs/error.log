@@ -1,0 +1,13 @@
+{"message":"password authentication failed for user \"daywison\"","level":"error","timestamp":"2020-07-01T20:34:16.331Z"}
+{"message":"password authentication failed for user \"daywison\"","level":"error","timestamp":"2020-07-01T20:34:24.524Z"}
+{"message":"password authentication failed for user \"daywison\"","level":"error","timestamp":"2020-07-01T20:34:37.136Z"}
+{"message":"password authentication failed for user \"daywison\"","level":"error","timestamp":"2020-07-01T20:35:47.555Z"}
+{"message":"password authentication failed for user \"daywison\"","level":"error","timestamp":"2020-07-01T20:35:52.776Z"}
+{"message":"password authentication failed for user \"daywison\"","level":"error","timestamp":"2020-07-01T20:36:21.723Z"}
+{"message":"password authentication failed for user \"daywison\"","level":"error","timestamp":"2020-07-01T20:42:49.630Z"}
+{"message":"password authentication failed for user \"daywison\"","level":"error","timestamp":"2020-07-01T20:45:38.025Z"}
+{"message":"password authentication failed for user \"daywison\"","level":"error","timestamp":"2020-07-01T20:47:18.148Z"}
+{"message":"password authentication failed for user \"daywison\"","level":"error","timestamp":"2020-07-01T20:52:42.870Z"}
+{"message":"password authentication failed for user \"daywison\"","level":"error","timestamp":"2020-07-01T20:59:22.424Z"}
+{"message":"column \"created_at\" does not exist","level":"error","timestamp":"2020-07-01T21:15:06.600Z"}
+{"message":"column \"created_at\" does not exist","level":"error","timestamp":"2020-07-01T21:18:29.600Z"}
