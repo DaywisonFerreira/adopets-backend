@@ -60,3 +60,4 @@
 {"message":"user:17c72e4d-db3c-4a91-90ff-0c73c1e4432f - GET - /products?filter=Ci&limit=8&page=1 - ip:::1","level":"info","timestamp":"2020-07-01T14:39:16.906Z"}
 {"message":"user:17c72e4d-db3c-4a91-90ff-0c73c1e4432f - GET - /products?filter=C&limit=8&page=1 - ip:::1","level":"info","timestamp":"2020-07-01T14:39:17.123Z"}
 {"message":"user:17c72e4d-db3c-4a91-90ff-0c73c1e4432f - GET - /products?filter=&limit=8&page=1 - ip:::1","level":"info","timestamp":"2020-07-01T14:39:17.290Z"}
+{"message":"user:46a7a554-bee4-4db7-9279-b4ac67ff2a60 - GET - /products?filter=&limit=8&page=1 - ip:::1","level":"info","timestamp":"2020-07-01T14:50:27.487Z"}
