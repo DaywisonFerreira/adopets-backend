@@ -35,13 +35,11 @@ class ProductController {
             }
           ]
         },
-        order: ['created_at'],
         limit: Number(limit),
         offset: (Number(page) - 1) * Number(limit)
       })      
     } else {
       products = await Product.findAll({
-        order: ['created_at'],
         limit: Number(limit),
         offset: (Number(page) - 1) * Number(limit),
       });

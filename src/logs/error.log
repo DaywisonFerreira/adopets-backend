@@ -1,9 +1,1 @@
-{"message":"password authentication failed for user \"daywison\"","level":"error","timestamp":"2020-07-01T13:44:23.522Z"}
-{"message":"password authentication failed for user \"daywison\"","level":"error","timestamp":"2020-07-01T13:44:29.479Z"}
-{"message":"password authentication failed for user \"daywison\"","level":"error","timestamp":"2020-07-01T13:44:33.648Z"}
-{"message":"user: - POST - /sessions - ip:::1 - Incorrect email/password combination","level":"error","timestamp":"2020-07-01T13:45:28.366Z"}
-{"message":"user: - POST - /sessions - ip:::1 - Incorrect email/password combination","level":"error","timestamp":"2020-07-01T14:25:10.170Z"}
-{"message":"value too long for type character varying(255)","level":"error","timestamp":"2020-07-01T14:33:36.439Z"}
-{"message":"value too long for type character varying(255)","level":"error","timestamp":"2020-07-01T14:34:12.743Z"}
-{"message":"user: - POST - /sessions - ip:::1 - Incorrect email/password combination","level":"error","timestamp":"2020-07-01T14:48:48.780Z"}
-{"message":"user: - POST - /sessions - ip:::1 - Incorrect email/password combination","level":"error","timestamp":"2020-07-01T14:49:47.541Z"}
+{"message":"column \"created_at\" does not exist","level":"error","timestamp":"2020-07-01T17:22:15.810Z"}

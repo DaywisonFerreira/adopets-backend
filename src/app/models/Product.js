@@ -15,7 +15,7 @@ class Products extends Model {
       price: Sequelize.DECIMAL(10,2),
       stock: Sequelize.INTEGER,
     }, {
-      sequelize
+      sequelize, modelName: 'products'
       }
     );
 
