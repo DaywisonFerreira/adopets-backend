@@ -15,6 +15,7 @@ if(process.env.NODE_ENV === 'development') {
     }
   }
 } else {
+  console.log('env de producao' + process.env.DATABASE_URL)
   module.exports = {
     dialect: 'postgres',
     connectionString: process.env.DATABASE_URL
