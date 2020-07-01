@@ -15,7 +15,7 @@ module.exports = {
       allowNull: false
     },
     description: {
-      type: Sequelize.STRING,
+      type: Sequelize.TEXT,
       allowNull: false,
     },
     category: {
@@ -32,7 +32,6 @@ module.exports = {
       allowNull: false,
       defaultValue: 0
     },
-
     created_at: {
       type: Sequelize.DATE,
       allowNull: false

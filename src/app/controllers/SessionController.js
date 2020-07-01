@@ -2,6 +2,8 @@ import jwt from 'jsonwebtoken';
 
 import authConfig from '../../config/auth';
 import User from '../models/User';
+import '../../database';
+import AppError from '../../errors/AppError';
 
 class SessionController{  
   async store(req, res) {
@@ -10,11 +12,11 @@ class SessionController{
     const user = await User.findOne({where: {email}});
 
     if(!user) {
-      return res.status(401).json({error: 'User not found'})
+      throw new AppError('Incorrect email/password combination', 401)
     }
-
+    
     if(!(await user.checkPassword(password))) {
-      return res.status(401).json({error: 'Password does not match'})
+      throw new AppError('Incorrect email/password combination', 401)
     }
 
     const {id, name} = user;

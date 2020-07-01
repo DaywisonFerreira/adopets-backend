@@ -5,6 +5,7 @@ import ProductController from './app/controllers/ProductController';
 import SessionController from './app/controllers/SessionController';
 
 import authMiddleware from './app/middlewares/auth';
+import logInfoMiddleware from './app/middlewares/logInfo';
 
 const routes = new Router();
 
@@ -12,8 +13,8 @@ routes.post('/users', UserController.store);
 routes.post('/sessions', SessionController.store);
 
 routes.use(authMiddleware);
+routes.use(logInfoMiddleware);
 
-routes.put('/users', UserController.udapte);
 
 routes.get('/products', ProductController.index)
 routes.get('/product/:id', ProductController.show);

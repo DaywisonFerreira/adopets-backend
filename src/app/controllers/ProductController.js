@@ -1,7 +1,8 @@
 import * as Yup from 'yup';
 import { Op } from 'sequelize';
 import Product from '../models/Product';
-
+import '../../database';
+import AppError from '../../errors/AppError';
 
 class ProductController {
   async index(req, res) {
@@ -56,7 +57,7 @@ class ProductController {
     const product = await Product.findByPk(id);
 
     if(!product) {
-      return res.status(400).json({error: 'Product does not exists'})
+      throw new AppError('Product does not exists', 400)
     }
 
     return res.status(200).json(product)
@@ -72,7 +73,7 @@ class ProductController {
     });
 
     if (!(await schema.isValid(req.body))) {
-      return res.status(400).json({ error: 'Validation fails' });
+      throw new AppError('Validation fails', 400)
     }
 
     const {id, name, description, category, price, stock} = await Product.create(req.body);
@@ -96,7 +97,7 @@ class ProductController {
     });
 
     if (!(await schema.isValid(req.body))) {
-      return res.status(400).json({ error: 'Validation fails' });
+      throw new AppError('Validation fails', 400)
     }
 
     const {id} = req.params;
@@ -104,7 +105,7 @@ class ProductController {
     const product = await Product.findByPk(id);
 
     if(!product) {
-      return res.status(400).json({error: 'Product does not exists'})
+      throw new AppError('Product does not exists', 400)
     }
 
     const productUpdated = await product.update(req.body);
@@ -119,7 +120,7 @@ class ProductController {
 
     // check if product exists
     if (!product) {
-      return res.status(400).json({ error: 'Product does not exists' });
+      throw new AppError('Product does not exists', 400)
     }
 
     await product.destroy();
