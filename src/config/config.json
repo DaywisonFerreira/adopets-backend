@@ -1,0 +1,15 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "postgres",
+    "database": "adopets",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": null,
+    "password": null,
+    "database": "DATABASE_URL",
+    "dialect": "postgres"
+  }
+}

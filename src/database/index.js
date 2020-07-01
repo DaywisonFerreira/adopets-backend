@@ -3,8 +3,9 @@ require('dotenv').config();
 import User from '../app/models/User';
 import Product from '../app/models/Product';
 
+const env = process.env.NODE_ENV || 'development';
+const connection = require('../config/config.json')[env]
 
-import connection from '../config/database';
 
 const models = [User, Product];
 
