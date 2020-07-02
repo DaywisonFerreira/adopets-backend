@@ -1,1 +1,9 @@
-{"message":"user:f166d4aa-58b2-4170-83a9-f04da310816f - GET - /products?filter=&limit=8&page=1 - ip:::1","level":"info","timestamp":"2020-07-01T21:20:32.090Z"}
+{"message":"user:f953f7b4-093d-4da7-aaf2-36022a9d9169 - GET - /products?filter=&limit=8&page=1 - ip:::1","level":"info","timestamp":"2020-07-02T19:13:36.046Z"}
+{"message":"user:f953f7b4-093d-4da7-aaf2-36022a9d9169 - GET - /product/cc03d3c5-212d-4252-8c1c-55002320ac55 - ip:::1","level":"info","timestamp":"2020-07-02T19:14:16.736Z"}
+{"message":"user:f953f7b4-093d-4da7-aaf2-36022a9d9169 - PUT - /product/cc03d3c5-212d-4252-8c1c-55002320ac55 - ip:::1","level":"info","timestamp":"2020-07-02T19:14:28.158Z"}
+{"message":"user:f953f7b4-093d-4da7-aaf2-36022a9d9169 - GET - /products?filter=&limit=8&page=1 - ip:::1","level":"info","timestamp":"2020-07-02T19:14:28.283Z"}
+{"message":"user:f953f7b4-093d-4da7-aaf2-36022a9d9169 - GET - /products?filter=&limit=12&page=1 - ip:::1","level":"info","timestamp":"2020-07-02T19:14:49.046Z"}
+{"message":"user:f953f7b4-093d-4da7-aaf2-36022a9d9169 - GET - /products?filter=&limit=8&page=1 - ip:::1","level":"info","timestamp":"2020-07-02T19:14:56.739Z"}
+{"message":"user:f953f7b4-093d-4da7-aaf2-36022a9d9169 - GET - /products?filter=&limit=8&page=1 - ip:::1","level":"info","timestamp":"2020-07-02T19:16:12.070Z"}
+{"message":"user:f953f7b4-093d-4da7-aaf2-36022a9d9169 - GET - /products?filter=&limit=8&page=1 - ip:::1","level":"info","timestamp":"2020-07-02T19:16:32.907Z"}
+{"message":"user:f953f7b4-093d-4da7-aaf2-36022a9d9169 - GET - /products?filter=&limit=8&page=1 - ip:::1","level":"info","timestamp":"2020-07-02T19:16:56.513Z"}

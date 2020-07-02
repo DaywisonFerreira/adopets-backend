@@ -1,7 +1,5 @@
 require('dotenv').config();
-const { Client } = require('pg');
 
-if(process.env.NODE_ENV === 'development') {
   module.exports = {
     dialect: 'postgres',
     host: process.env.DB_HOST,
@@ -14,10 +12,4 @@ if(process.env.NODE_ENV === 'development') {
       underscoredAll: true
     }
   }
-} else {
-  console.log('env de producao' + process.env.DATABASE_URL)
-  module.exports = {
-    dialect: 'postgres',
-    connectionString: process.env.DATABASE_URL
-  }
-}
+
