@@ -1,1 +1,19 @@
 {"message":"user: - POST - /sessions - ip:::1 - Incorrect email/password combination","level":"error","timestamp":"2020-07-02T19:00:49.809Z"}
+{"message":"user:b9bcb42a-410b-457e-9e91-acf41393e1d0 - PUT - /product/c1024b4b-535d-4ed9-8ac5-2a27da7a9987 - ip:::1 - Validation fails","level":"error","timestamp":"2020-07-02T19:24:31.099Z"}
+{"message":"user:b9bcb42a-410b-457e-9e91-acf41393e1d0 - PUT - /product/c1024b4b-535d-4ed9-8ac5-2a27da7a9987 - ip:::1 - Validation fails","level":"error","timestamp":"2020-07-02T19:24:36.760Z"}
+{"message":"user:b9bcb42a-410b-457e-9e91-acf41393e1d0 - PUT - /product/c1024b4b-535d-4ed9-8ac5-2a27da7a9987 - ip:::1 - Validation fails","level":"error","timestamp":"2020-07-02T19:24:42.300Z"}
+{"message":"user:b9bcb42a-410b-457e-9e91-acf41393e1d0 - PUT - /product/c1024b4b-535d-4ed9-8ac5-2a27da7a9987 - ip:::1 - Validation fails","level":"error","timestamp":"2020-07-02T19:24:43.251Z"}
+{"message":"user:b9bcb42a-410b-457e-9e91-acf41393e1d0 - PUT - /product/c1024b4b-535d-4ed9-8ac5-2a27da7a9987 - ip:::1 - Validation fails","level":"error","timestamp":"2020-07-02T19:24:43.488Z"}
+{"message":"user:b9bcb42a-410b-457e-9e91-acf41393e1d0 - PUT - /product/c1024b4b-535d-4ed9-8ac5-2a27da7a9987 - ip:::1 - Validation fails","level":"error","timestamp":"2020-07-02T19:24:43.719Z"}
+{"message":"user:b9bcb42a-410b-457e-9e91-acf41393e1d0 - PUT - /product/c1024b4b-535d-4ed9-8ac5-2a27da7a9987 - ip:::1 - Validation fails","level":"error","timestamp":"2020-07-02T19:24:43.937Z"}
+{"message":"user:b9bcb42a-410b-457e-9e91-acf41393e1d0 - PUT - /product/c1024b4b-535d-4ed9-8ac5-2a27da7a9987 - ip:::1 - Validation fails","level":"error","timestamp":"2020-07-02T19:24:59.327Z"}
+{"message":"user:b9bcb42a-410b-457e-9e91-acf41393e1d0 - PUT - /product/c1024b4b-535d-4ed9-8ac5-2a27da7a9987 - ip:::1 - Validation fails","level":"error","timestamp":"2020-07-02T19:25:05.747Z"}
+{"message":"user:b9bcb42a-410b-457e-9e91-acf41393e1d0 - PUT - /product/c1024b4b-535d-4ed9-8ac5-2a27da7a9987 - ip:::1 - Validation fails","level":"error","timestamp":"2020-07-02T19:25:37.014Z"}
+{"message":"user:b9bcb42a-410b-457e-9e91-acf41393e1d0 - PUT - /product/c1024b4b-535d-4ed9-8ac5-2a27da7a9987 - ip:::1 - Validation fails","level":"error","timestamp":"2020-07-02T19:25:40.839Z"}
+{"message":"user:b9bcb42a-410b-457e-9e91-acf41393e1d0 - PUT - /product/c1024b4b-535d-4ed9-8ac5-2a27da7a9987 - ip:::1 - Validation fails","level":"error","timestamp":"2020-07-02T19:25:42.277Z"}
+{"message":"user:b9bcb42a-410b-457e-9e91-acf41393e1d0 - PUT - /product/c1024b4b-535d-4ed9-8ac5-2a27da7a9987 - ip:::1 - Validation fails","level":"error","timestamp":"2020-07-02T19:25:55.444Z"}
+{"message":"user:b9bcb42a-410b-457e-9e91-acf41393e1d0 - PUT - /product/c1024b4b-535d-4ed9-8ac5-2a27da7a9987 - ip:::1 - Validation fails","level":"error","timestamp":"2020-07-02T19:26:57.999Z"}
+{"message":"user:b9bcb42a-410b-457e-9e91-acf41393e1d0 - PUT - /product/c1024b4b-535d-4ed9-8ac5-2a27da7a9987 - ip:::1 - Validation fails","level":"error","timestamp":"2020-07-02T19:27:43.597Z"}
+{"message":"user:b9bcb42a-410b-457e-9e91-acf41393e1d0 - PUT - /product/c1024b4b-535d-4ed9-8ac5-2a27da7a9987 - ip:::1 - Validation fails","level":"error","timestamp":"2020-07-02T19:29:40.906Z"}
+{"message":"user:b9bcb42a-410b-457e-9e91-acf41393e1d0 - PUT - /product/c1024b4b-535d-4ed9-8ac5-2a27da7a9987 - ip:::1 - Validation fails","level":"error","timestamp":"2020-07-02T19:31:23.335Z"}
+{"message":"user:b9bcb42a-410b-457e-9e91-acf41393e1d0 - PUT - /product/c1024b4b-535d-4ed9-8ac5-2a27da7a9987 - ip:::1 - Validation fails","level":"error","timestamp":"2020-07-02T19:32:05.830Z"}
