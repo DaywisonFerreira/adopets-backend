@@ -1,5 +1,7 @@
 
 
+![Project gifs](project.gif)
+
 <p align="center">
 <a href="#about">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;

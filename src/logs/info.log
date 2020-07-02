@@ -74,3 +74,14 @@
 {"message":"user:b9bcb42a-410b-457e-9e91-acf41393e1d0 - GET - /product/c69ab485-d8b6-41e6-b00e-4ede370cf1c5 - ip:::1","level":"info","timestamp":"2020-07-02T19:35:29.362Z"}
 {"message":"user:b9bcb42a-410b-457e-9e91-acf41393e1d0 - PUT - /product/c69ab485-d8b6-41e6-b00e-4ede370cf1c5 - ip:::1","level":"info","timestamp":"2020-07-02T19:35:38.300Z"}
 {"message":"user:b9bcb42a-410b-457e-9e91-acf41393e1d0 - GET - /products?filter=&limit=8&page=1 - ip:::1","level":"info","timestamp":"2020-07-02T19:35:38.388Z"}
+{"message":"user:679ca418-e7d1-4b3e-a4c2-a1f45e9c0726 - GET - /products?filter=&limit=8&page=1 - ip:::1","level":"info","timestamp":"2020-07-02T19:59:45.186Z"}
+{"message":"user:679ca418-e7d1-4b3e-a4c2-a1f45e9c0726 - POST - /products - ip:::1","level":"info","timestamp":"2020-07-02T20:00:11.903Z"}
+{"message":"user:679ca418-e7d1-4b3e-a4c2-a1f45e9c0726 - GET - /products?filter=&limit=8&page=1 - ip:::1","level":"info","timestamp":"2020-07-02T20:00:12.001Z"}
+{"message":"user:679ca418-e7d1-4b3e-a4c2-a1f45e9c0726 - DELETE - /product/c0198f41-f483-4b44-ac6b-3c8d0ed8d73e - ip:::1","level":"info","timestamp":"2020-07-02T20:00:21.541Z"}
+{"message":"user:679ca418-e7d1-4b3e-a4c2-a1f45e9c0726 - GET - /products?filter=&limit=8&page=1 - ip:::1","level":"info","timestamp":"2020-07-02T20:00:21.576Z"}
+{"message":"user:679ca418-e7d1-4b3e-a4c2-a1f45e9c0726 - GET - /product/de5b392f-f1c1-4f81-bfcf-33bdcb0b1704 - ip:::1","level":"info","timestamp":"2020-07-02T20:00:23.547Z"}
+{"message":"user:679ca418-e7d1-4b3e-a4c2-a1f45e9c0726 - PUT - /product/de5b392f-f1c1-4f81-bfcf-33bdcb0b1704 - ip:::1","level":"info","timestamp":"2020-07-02T20:00:28.823Z"}
+{"message":"user:679ca418-e7d1-4b3e-a4c2-a1f45e9c0726 - GET - /products?filter=&limit=8&page=1 - ip:::1","level":"info","timestamp":"2020-07-02T20:00:28.897Z"}
+{"message":"user:679ca418-e7d1-4b3e-a4c2-a1f45e9c0726 - GET - /products?filter=L&limit=8&page=1 - ip:::1","level":"info","timestamp":"2020-07-02T20:00:34.962Z"}
+{"message":"user:679ca418-e7d1-4b3e-a4c2-a1f45e9c0726 - GET - /products?filter=Lu&limit=8&page=1 - ip:::1","level":"info","timestamp":"2020-07-02T20:00:35.177Z"}
+{"message":"user:679ca418-e7d1-4b3e-a4c2-a1f45e9c0726 - GET - /products?filter=Luv&limit=8&page=1 - ip:::1","level":"info","timestamp":"2020-07-02T20:00:35.689Z"}
